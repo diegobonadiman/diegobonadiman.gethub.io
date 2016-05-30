@@ -11,4 +11,5 @@ Parametricism is a term used in a variety of disciplines from mathematics throug
 For further information, visit these links:
 
 [Parasite](http://parasite.usc.edu/?p=443)
+
 [A history of parametric](http://www.danieldavis.com/a-history-of-parametric/)
