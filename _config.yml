@@ -9,7 +9,7 @@ twitter_username: diegobonadiman
 github_username: diegobonadiman
 
 # Build settings
-kramdown: redcarpet
+markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 redcarpet:
