@@ -1,8 +1,18 @@
----
-layout: post
-title: Parametric design: definitions
----
 
+
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+     <h1 class="post-title">{{ page.title }}</h1>
+     <p class="post-meta">Posted on {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+    
 ![](/images/posts/127_pattern01.jpg/)
 
 
@@ -12,3 +22,12 @@ Further information can be found on the following links:
 
 url: 'http://parasite.usc.edu/?p=443'
 url: 'http://www.danieldavis.com/a-history-of-parametric/'
+  </article>
+
+  <div align="center">
+  	<a href="#">
+  	<i class="fa fa-arrow-circle-up fa-2x"></i>
+  	</a>
+  </div>
+
+</div>
