@@ -1,0 +1,22 @@
+---
+layout: post
+title: "The year: a parametric night club"
+date: 2016-05-31
+categories:
+---
+
+![the year](https://diegobonadiman.github.io/images/1.jpg)
+
+The Year is an industrial space turned dance club, with its hangar reimagined as an interactive light installation. The club is located in São Paulo, Brazil. An organic geometric pattern, inspired by nature cells and created with a parametric design process, was used for the details of the hallway ceilings. Laser cut into wooden plates, the recurring pattern is a digital aesthetic that appears in different places, and brings a strong identity to the club.
+
+![the year](https://diegobonadiman.github.io/images/IMG0557.jpg)
+
+The inner dance floor is an interactive LED cage, responding to several sensors in the space. The DJ can control the light effects with his own dance motions, through a body sensor. Above the dance floor, another sensor is responding to temperature and movement of the dancing below, transforming this information into lighting effects. It's a dance floor that reacts to the guests' stimulation, working as an extension of their own bodies.
+
+![the year](https://diegobonadiman.github.io/images/IMG9865.jpg)
+
+For further information, visit these links:
+
+[Studio Guto Requena](http://www.gutorequena.com.br/site/work/space/the-year/38/)
+
+[Archdaily](http://www.archdaily.com.br/br/782827/the-year-estudio-guto-requena)
