@@ -36,6 +36,13 @@ As color is perceived on the white bands above, the tunnel boasts "an ambient li
 <iframe src="https://player.vimeo.com/video/41699285" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/41699285">FUTURE SELF | Project Film</a> from <a href="https://vimeo.com/madeblog">MADE</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+The rAndom International 'Future Self' installation combines computer-aided LED lighting with the interactive elements of dance and music to create a digital art piece that blurs the lines between humans and technology.
+
+Commissioned by Berline-based gallery MADE, the exhibition features a collaborative effort between digital art specialists, composer Max Richter and Wayne McGregor's interpretive dance choreography.
+
+The hanging panel of LED lights are equipped with motion sensors that light up and move in patterns that mimic the movement of anyone that steps in front of them. Each light fades in and out of focus with varying degrees of brightness and intensity to take on shapes that sometimes directly replicate the human form. 
+
+A combination of musical interludes and dance sequences interact with the light display to create a truly harmonious experience between the person and the computer.
 
 
 Source: [Trend Hunter](http://www.trendhunter.com/slideshow/interactive-light-features)
