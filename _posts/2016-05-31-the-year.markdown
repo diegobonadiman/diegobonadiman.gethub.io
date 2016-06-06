@@ -15,7 +15,6 @@ The inner dance floor is an interactive LED cage, responding to several sensors 
 
 ![the year](https://diegobonadiman.github.io/images/IMG9865.jpg)
 
-
 <iframe width="560" height="315" src="http://www.youtube.com/watch?v=6yzkQi_1TLY" frameborder="0"> </iframe>
 
 For further information, visit these links:
