@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Light reacting to movement"
-date: 2016-06-06
+date: 2016-06-07
 categories:
 ---
 
