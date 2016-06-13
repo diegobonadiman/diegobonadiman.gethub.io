@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Light and achitecture"
+title: "Light and architecture"
 date: 2016-06-10
 categories:
 ---
