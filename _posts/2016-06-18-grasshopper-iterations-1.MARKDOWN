@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Grasshopper parameters and first iterations"
+date: 2016-06-18
+categories:
+---
+
 In order to generate the form for the intervention, I collected the data of solar incidence in chicago to use as a parameter in Grasshopper to manipulate the shape and size of the object.
 
 ![1](https://diegobonadiman.github.io/images/ghit1.PNG) 
